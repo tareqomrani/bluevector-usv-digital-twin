@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![BLUEVECTOR | Autonomous USV Simulation & Digital Twin](BV-B.png)
+![BLUEVECTOR | Autonomous USV Simulation & Digital Twin](BV-B.PNG)
 
 # BLUEVECTOR
 
